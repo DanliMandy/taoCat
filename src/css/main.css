@@ -1,0 +1,91 @@
+#focus{
+    width: 100%;
+    min-width:1080px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: #cccccc;
+}
+.focus-bd{
+    width: 1920px;
+    margin: 0 auto;
+}
+.brands{
+    width: 1090px;
+    height: 370px;
+    margin: 0 auto;
+    padding-top: 35px;
+}
+.b-title{
+    width: 1090px;
+    height: 48px;
+}
+.b-title h2{
+    float: left;
+    width: 160px;
+}
+.b-title h2:hover{color: #b4a078}
+.b-title small{
+    position: relative;
+    float: left;
+    margin-left: 3px;
+    margin-top: 12px;
+}
+.b-right{
+    float: right;
+    width: 75px;
+    line-height: 30px;
+    font-size: 14px;
+}
+.b-right a{
+    text-decoration: none;
+    color: #333;
+}
+.b-right a:hover{color: #b4a078}
+
+.b-content{
+    width: 1090px;
+    height: 320px;
+    background-color: yellow;
+}
+.manufacturer-first{
+    width: 357px;height: 320px;
+    position: relative;
+    float: left;
+    overflow: hidden;
+    text-align: center;
+    background-color: #F6F4F2;
+}
+
+.b-rankName{
+    height: 50px;
+    font-size: 24px;
+    color: #666;
+    padding-top: 50px;
+    text-align: center;
+}
+.b-name{
+    float: left;
+    width: 120px;
+    margin: 0 auto;
+
+}
+
+.b-price{
+    width: 70px;height: 35px;
+    margin: 0 auto;
+    font-size: 14px;
+    border-top: 1px solid #666;
+    padding-top: 20px;
+}
+.b-img{
+    height: 160px;
+}
+.manufacturer-middle{
+    width: 357px;height: 320px;
+    position: relative;
+    float: left;
+    margin-left: 8px;
+    overflow: hidden;
+    text-align: center;
+    background-color: #FBF6F5;
+}
